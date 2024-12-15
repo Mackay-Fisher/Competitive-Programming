@@ -1,0 +1,1 @@
+{"name":"Local: f","url":"/Users/mackayfisher/Desktop/CSCE_430/Week9/lw/f.cpp","tests":[{"id":1711140989227,"input":"3 2\n5\n7\n9\n6\n8","output":"2\n"},{"id":1711141251405,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mackayfisher/Desktop/CSCE_430/Week9/lw/f.cpp","group":"local","local":true}

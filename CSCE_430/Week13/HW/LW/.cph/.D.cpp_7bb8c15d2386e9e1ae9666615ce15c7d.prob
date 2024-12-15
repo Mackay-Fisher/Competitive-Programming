@@ -1,0 +1,1 @@
+{"name":"Local: D","url":"/Users/mackayfisher/Desktop/CSCE_430/Week13/HW/LW/D.cpp","tests":[{"id":1713565757448,"input":"3 3\n0 1 0.9\n1 2 0.9\n0 2 0.8\n2 1\n1 0 1\n0 0","output":"0.8100\n1.0000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mackayfisher/Desktop/CSCE_430/Week13/HW/LW/D.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/Users/mackayfisher/Desktop/CSCE_430/Week10/HW/A.cpp","tests":[{"id":1711493009994,"input":"1\n2 4\n0 100\n0 300\n0 600\n150 750","output":"212.13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mackayfisher/Desktop/CSCE_430/Week10/HW/A.cpp","group":"local","local":true}

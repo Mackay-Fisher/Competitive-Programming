@@ -1,0 +1,1 @@
+{"name":"Local: increasingArray","url":"/Users/mackayfisher/Desktop/CSES/increasingArray.cpp","tests":[{"id":1722909628509,"input":"5\n3 2 5 1 7","output":"5"},{"id":1722909852775,"input":"10\n6 10 4 10 2 8 9 2 7 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mackayfisher/Desktop/CSES/increasingArray.cpp","group":"local","local":true}

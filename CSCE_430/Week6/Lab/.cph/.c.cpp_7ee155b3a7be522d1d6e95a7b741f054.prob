@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"/Users/mackayfisher/Desktop/CSCE_430/Week6/Lab/c.cpp","tests":[{"id":1708724950754,"input":"a bb\nab b","output":"aab\nab\naba\nabb\nabbb\nba\nbab\nbba\nbbab\nbbb"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mackayfisher/Desktop/CSCE_430/Week6/Lab/c.cpp","group":"local","local":true}

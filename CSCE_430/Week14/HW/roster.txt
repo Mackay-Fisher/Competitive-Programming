@@ -1,0 +1,23 @@
+Name						UIN		Year		Major
+Christiana Chamon Garcia			937569347	Freshman	Electrical engineering
+Brennen Ray Taylor				675945675	Senior		Computer science
+Bjarne Stroustrup				584793026	Sophomore	Computer science
+Behzad Razavi					589435032	Junior		Electrical engineering
+Sheldon Lee Cooper				237849503	Sophomore	Physics
+Amy Farrah Fowler				384759032	Senior		Biology
+Leonard Leakey Hofstadter			857439027	Junior		Physics
+Penny Hofstadter				576849356	Junior		Undeclared
+Rajesh Ramayan Koothrappali			487569302	Sophomore	Astronomy
+Howard Joel Wolowitz				237485903	Freshman	Mechanical engineering
+Bernadette Maryann Rostenkowski-Wolowitz	349508430	Junior		Biology
+Ted Evelyn Mosby				689304587	Freshman	Architecture
+Marshall Eriksen				029384755	Freshman	Political science
+Lily Aldrin					367485396	Sophomore	Undeclared
+Barney Stinson					237485905	Senior		Business
+Robin Charles Scherbatsky, Jr.			123456789	Sophomore	Journalism
+Joseph Francis Tribbiani			987654321	Senior		Culinary arts
+Ross Geller					374825693	Senior		Paleontology
+Chandler Muriel Bing				234895760	Junior		Business
+Monica Geller					485967403	Senior		Culinary arts
+Phoebe Buffay-Hannigan				502938475	Junior		Undeclared
+Rachel Karen Green				409853673	Sophomore	Business

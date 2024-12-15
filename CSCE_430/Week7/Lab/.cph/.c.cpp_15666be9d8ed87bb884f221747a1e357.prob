@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"/Users/mackayfisher/Desktop/CSCE_430/Week7/Lab/c.cpp","tests":[{"id":1709329662850,"input":"10\n1 3 3 4 2 4 1 3 7 1","output":"2"},{"id":1709330646728,"input":"6\n1 2 3 3 2 1","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mackayfisher/Desktop/CSCE_430/Week7/Lab/c.cpp","group":"local","local":true}
